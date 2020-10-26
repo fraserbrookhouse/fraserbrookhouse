@@ -19,7 +19,7 @@ I'm a full-stack software developer. I just completed the 12 week Makers Bootcam
 
 ### CV
 
-![Curriculum Vitae](https://github.com/fraserbrookhouse/CV)
+[Curriculum Vitae](https://github.com/fraserbrookhouse/CV)
 
 ### Contact
 
