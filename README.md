@@ -2,7 +2,7 @@
 
 I'm a full-stack software developer. I just completed the 12 week Makers Bootcamp course.
 
-**💻 I’m currently looking for my first software development job**<sub>Please hire me</sub>
+**💻 I’m currently looking for my first software development job** <sub>Please hire me</sub>
 
 ### Technologies & Tools
 
