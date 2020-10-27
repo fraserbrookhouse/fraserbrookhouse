@@ -2,11 +2,13 @@
 
 I'm a full-stack software developer. I just completed the 12 week Makers Bootcamp course.
 
-**💻 I’m currently looking for my first software development job**
+**💻 I’m currently looking for my first software development job**<sub>Please hire me</sub>
 
 ### Technologies & Tools
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-white)
+![Node](https://img.shields.io/badge/Tools-Node-white)
+![React Native](https://img.shields.io/badge/Frameworks-ReactNative-white)
 ![ruby](https://img.shields.io/badge/Code-Ruby-white)
 ![rails](https://img.shields.io/badge/Frameworks-Rails-white)
 ![sinatra](https://img.shields.io/badge/Frameworks-Sinatra-white)
@@ -14,7 +16,6 @@ I'm a full-stack software developer. I just completed the 12 week Makers Bootcam
 ![CI](https://img.shields.io/badge/CI-Travis-white)
 ![PostreSQL](https://img.shields.io/badge/Tools-PostgreSQL-white)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-white)
-![Node](https://img.shields.io/badge/Tools-Node-white))
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-white)
 
 ### CV
