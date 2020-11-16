@@ -1,6 +1,4 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Fraser Brookhouse.
+### Hello, I'm Fraser Brookhouse <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a full-stack software developer. I just completed the 12 week Makers Bootcamp course.
 
